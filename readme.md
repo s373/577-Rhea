@@ -1,6 +1,6 @@
 ##577 Rhea
 You are your planet's last hope. Your corrupted planet explodes. You have to time-travel through blackholes with primordial essences to prevent the inevitable collapse of your home. <br>
-<a href="http://piantadelmondo.info/577-rhea/577%20Rhea%20001.png"><img src="http://piantadelmondo.info/577-rhea/577 Rhea 001.png" width=550px></a>
+<a href="http://piantadelmondo.info/577-rhea/577%20Rhea%20001.png"><img src="http://piantadelmondo.info/577-rhea/577%20Rhea%20001.png" width=550px></a>
 
 <b>577 Rhea Keys</b><br>
 cursor keys or wasd to control ship
